@@ -1,3 +1,6 @@
-<p align="center">
-  <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse1.mm.bing.net%2Fth%3Fid%3DOIP.KpWExf8du4-SwpkDRECt6wHaEK%26pid%3DApi&f=1" alt="Tanjiro"/>
-</p>
+<div align="center">
+
+<a href="https://discord.com/users/425326889565945856" >
+  <img src="https://lanyard-profile-readme.vercel.app/api/425326889565945856"  />
+</a>
+</div>
